@@ -188,7 +188,6 @@ Raw counts of True Positives (correct merges), False Positives (wrong merges), a
 
 ## Scalability Notes
 
-- Swap `IndexFlatIP` → `IndexIVFFlat` for catalogs > 100K products.
 - `llm_refine` makes one API call per cluster. Use the OpenAI Batch API at scale.
 - Both caches (`embeddings.json`, `normalizations.json`) make incremental runs free — only new/changed names hit the API.
 
