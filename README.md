@@ -159,7 +159,6 @@ Raw counts of True Positives (correct merges), False Positives (wrong merges), a
 - **Price Accuracy**: fraction of deduplicated groups where the pipeline found the true minimum price.
 - **Avg Overcharge**: mean relative overpayment when the minimum was missed (kept near 0 by the LLM stage).
 
-> ROC/AUC is intentionally excluded: with ~2% positive-pair rate, AUC is misleading, and there is no continuous per-pair score after LLM refinement.
 
 ### Current Numbers
 
