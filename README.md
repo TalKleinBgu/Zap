@@ -4,16 +4,6 @@ A pipeline for merging duplicate product listings that carry inconsistent names 
 
 ---
 
-## Why Not Rule-Based?
-
-Rule-based normalization requires hand-maintained brand/model dictionaries for every category — infeasible at catalog scale. Instead:
-
-- `text-embedding-3-small` handles Hebrew and English natively, no preprocessing needed.
-- An LLM normalizes Hebrew names to English **before** embedding (cached, one-time per name).
-- A second LLM call verifies each cluster and splits false positives.
-
----
-
 ## Pipeline Architecture
 
 ```
