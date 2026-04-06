@@ -1,0 +1,433 @@
+id,name,price,category,group_id
+1,Haier HTF520IP7 NoFrost 520L,6980,refrigerators,RF-005
+2,Samsung Bespoke Jet AI Complete,2710,vacuum,VC-004
+3,Nespresso VertuoCreatista Plus,3270,coffee,CF-002
+4,Samsung Tab S9FE 128GB WiFi,1240,tablets,TB-005
+5,Whirlpool WQ9B2L 300L,3270,refrigerators,RF-007
+6,JBL Charge 5 Portable Speaker,650,speakers,SP-002
+7,TCL 43C645 43 inch QLED,1770,tvs,TV-010
+8,Amazon Fire HD 10 2023 32GB,980,tablets,TB-009
+9,Electra 12000BTU Inverter A++ WiFi,4140,ac,AC-006
+10,Jura Z10 Diamond Black,5310,coffee,CF-007
+11,SteelSeries Arctis Nova 3 Wireless,460,gaming,GM-009
+12,LG-OLED-C4 65'' 4K 2024,9040,tvs,TV-001
+13,Samsung Family Hub RF65DG960 600L,10200,refrigerators,RF-001
+14,Surface Laptop 5 15inch 256GB,6200,laptops,LP-012
+15,iPhone 15 Pro Max 1TB,5780,smartphones,SM-005
+16,Apple AirPods 4 ANC,940,headphones,HP-007
+17,HP Pavilion 15 512GB,4360,laptops,LP-013
+18,BenQ MOBIUZ EX2710Q 27inch QHD,1900,monitors,MN-004
+19,Samsung S24 Ultra 256GB,4430,smartphones,SM-001
+20,Sonos Arc Ultra Soundbar,2040,speakers,SP-004
+21,Breville BES876 Barista Express,4410,coffee,CF-003
+22,iPhone 15 128GB,3670,smartphones,SM-011
+23,אל ג'י TurboWash 360 12 קג,4460,washing_machines,WM-002
+24,Google Pixel 8 Pro 256GB,4440,smartphones,SM-007
+25,ELECTROLUX-EW6F4943 9KG,3060,washing_machines,WM-005
+26,DeLonghi Magnifica Evo ECAM290,2180,coffee,CF-006
+27,APPLE-IPHONE-15 128GB,3320,smartphones,SM-011
+28,MICROSOFT-XBOX-SERIES-S 512GB,560,gaming,GM-006
+29,נספרסו ורטואו קריאטיסטה פלוס,2660,coffee,CF-002
+30,יורה Z10 שחור יהלום,5750,coffee,CF-007
+31,Apple MacBook Pro 16-inch M3 Pro 1TB,12870,laptops,LP-002
+32,Microsoft Surface Laptop 5 256GB,5710,laptops,LP-012
+33,SAMSUNG BUDS3-PRO TWS,720,headphones,HP-004
+34,סמסונג OLED S95D 65 אינץ,7550,tvs,TV-008
+35,Samsung S24Ultra 512GB,5520,smartphones,SM-002
+36,iPhone 15 256GB,3330,smartphones,SM-012
+37,LG-INSTAVIEW 635L DoorInDoor,8770,refrigerators,RF-002
+38,FUJIFILM-X-T5 40MP Mirrorless,5750,cameras,CM-003
+39,PlayStation 5 Slim Disc Edition,2270,gaming,GM-002
+40,JBL Tune 720BT,290,headphones,HP-009
+41,Apple MacBook Pro 16-inch M3 Pro 512GB,12530,laptops,LP-001
+42,Miele WCR870 TwinDos 9KG,7300,washing_machines,WM-004
+43,Nespresso VertuoPop Plus,1630,coffee,CF-005
+44,Hisense U8N 65 inch,5560,tvs,TV-006
+45,Fujifilm X-T5 Body,5800,cameras,CM-003
+46,אייפון 15 פרו מקס 1TB,6660,smartphones,SM-005
+47,DAIKIN-FTXM50R PERFERA 18000BTU WiFi,7120,ac,AC-005
+48,Sony PS5 Slim Digital,1700,gaming,GM-001
+49,אסוס ROG זפירוס G14 512GB,8950,laptops,LP-009
+50,SAMSUNG-WINDFREE AR18 18000BTU,5690,ac,AC-003
+51,Samsung A55 5G 128GB,2420,smartphones,SM-013
+52,Jura Z10 Aluminum Black 2024,5560,coffee,CF-007
+53,Sony A95L 55,8030,tvs,TV-005
+54,CANON-EOS-R6-MKII Body,7810,cameras,CM-002
+55,היסנס U8N 65 אינץ,5420,tvs,TV-006
+56,ROG Zephyrus G14 2024 512GB,7770,laptops,LP-009
+57,Apple iPhone 15 Pro Max 1TB,6330,smartphones,SM-005
+58,אייצ'פי ספקטר x360 512GB,6180,laptops,LP-010
+59,אקסבוקס סירייס S 512GB,660,gaming,GM-006
+60,Bose SoundLink Max,1080,speakers,SP-003
+61,Xiaomi14Pro 512G,3200,smartphones,SM-009
+62,Bose QC Ultra Headphones,1300,headphones,HP-008
+63,Indesit IWSC 61051 6KG,1800,washing_machines,WM-008
+64,Bose QC45,1070,headphones,HP-003
+65,דלונגי מגניפיקה אבו ECAM290,2350,coffee,CF-006
+66,ThinkPad X1 Carbon Gen11 512GB,9790,laptops,LP-008
+67,DELL-XPS-15-9530 1TB i9,9360,laptops,LP-007
+68,אלקטרולוקס NoFrost 524 ליטר,6160,refrigerators,RF-004
+69,APPLE AIRPODS-4 ANC,910,headphones,HP-007
+70,Samsung Galaxy S24+ 256GB,4850,smartphones,SM-010
+71,סונוס ארק אולטרה סאונד בר,2200,speakers,SP-004
+72,Samsung 55QN90D NeoQLED,9910,tvs,TV-004
+73,Samsung S24 Plus 256GB,4630,smartphones,SM-010
+74,Nokia G60 5G 128GB,1450,smartphones,SM-016
+75,HP Spectre x360 14 512GB,7790,laptops,LP-010
+76,אל ג'י אולטרה גיר 27 4K 144Hz,3900,monitors,MN-001
+77,Samsung Galaxy S24 Ultra 256GB,5170,smartphones,SM-001
+78,דל אולטרה שארפ 32 4K USB-C,4530,monitors,MN-003
+79,Samsung Galaxy Tab S9 FE 128GB,1420,tablets,TB-005
+80,Dyson V8 Origin,1660,vacuum,VC-005
+81,PS5 Slim דיגיטל,1580,gaming,GM-001
+82,Sony WH-1000XM4,1030,headphones,HP-006
+83,נינטנדו סוויץ OLED,1400,gaming,GM-004
+84,DELONGHI-DINAMICA-PLUS ECAM370,3900,coffee,CF-001
+85,שיאומי 14 פרו 512GB,3670,smartphones,SM-009
+86,GOOGLE PIXEL8PRO 256GB,3610,smartphones,SM-007
+87,סמסונג אודיסי G7 32 QHD,3110,monitors,MN-002
+88,ELECTROLUX-ELT9VE52 524L,6150,refrigerators,RF-004
+89,iPhone 15 Pro Max 512GB,5140,smartphones,SM-004
+90,NINTENDO-SWITCH-2,930,gaming,GM-007
+91,סונוס ארה 300,1560,speakers,SP-001
+92,Electrolux ELT9VE52 NoFrost 524L,4930,refrigerators,RF-004
+93,Jura E8 EB Piano Black 2024,4720,coffee,CF-004
+94,LG S18ET Inverter WiFi 18000BTU,6780,ac,AC-002
+95,דייסון V12 דיטקט סלים,2560,vacuum,VC-002
+96,APPLE AIRPODS-PRO2,1000,headphones,HP-002
+97,Apple iPad Pro 13-inch M4 256GB,3970,tablets,TB-001
+98,סמסונג Neo QLED 75 אינץ QN90D,12760,tvs,TV-003
+99,גוגל פיקסל 8a 128GB,2320,smartphones,SM-015
+100,Canon EOS R6 Mark II Body,7570,cameras,CM-002
+101,ארובוט רומבה j9 פלוס,3130,vacuum,VC-003
+102,HP Spectre 360 14inch 512GB,7610,laptops,LP-010
+103,OnePlus 12 256GB,3250,smartphones,SM-008
+104,Apple MacBook Pro 14-inch M3 512GB,8450,laptops,LP-005
+105,Electrolux PerfectCare 9KG EW6F4943,3120,washing_machines,WM-005
+106,מקבוק אייר 15 M3 512GB,9890,laptops,LP-004
+107,Sony XM5 Over-Ear Headphones,1240,headphones,HP-001
+108,שיאומי רדמי נוט 13 פרו 256GB,1990,smartphones,SM-014
+109,אלקטרה אינוורטר 12000 BTU,4050,ac,AC-006
+110,סמסונג EcoBubble 11 קילו,4320,washing_machines,WM-001
+111,Nintendo Switch OLED Model,1310,gaming,GM-004
+112,LG Dualcool Inverter 18000 BTU,7190,ac,AC-002
+113,אקסבוקס סירייס X 1TB,1800,gaming,GM-003
+114,בוז סאונד לינק מקס,980,speakers,SP-003
+115,סוני WH-1000XM5,1370,headphones,HP-001
+116,LG-TURBOWASH F4WV912 12KG,3790,washing_machines,WM-002
+117,Apple iPad Pro 13-inch M4 512GB,5480,tablets,TB-002
+118,APPLE-IPHONE-15-PRO-MAX 1TB,5460,smartphones,SM-005
+119,סוני SRS-XB100,530,speakers,SP-005
+120,Samsung 65S95D OLED,8930,tvs,TV-008
+121,Razer DeathAdder V3 Wired,290,gaming,GM-008
+122,APPLE-MACBOOK-AIR-15 M3 256GB,7170,laptops,LP-003
+123,LG UltraGear 27GP950 4K 144Hz,3620,monitors,MN-001
+124,LG InstaView GSXV91BSAE 635L,9470,refrigerators,RF-002
+125,SAMSUNG-A55 128GB,2320,smartphones,SM-013
+126,iPhone 15 Pro Max 256GB,5400,smartphones,SM-003
+127,AOC 24G2SP 24inch FHD,970,monitors,MN-005
+128,וואן פלוס 12 256GB,3070,smartphones,SM-008
+129,Samsung Galaxy Buds3 Pro,650,headphones,HP-004
+130,SAMSUNG-BESPOKE-JET-AI,2780,vacuum,VC-004
+131,APPLE-IPAD-10GEN 256GB WiFi,2610,tablets,TB-008
+132,Jabra-Evolve2-85 UC Wireless,1740,headphones,HP-005
+133,דייסון V15 דיטקט אבסולוט,2940,vacuum,VC-001
+134,JURA-Z10 Diamond-Black Bean2Cup,6520,coffee,CF-007
+135,Xbox Series X 1TB,1960,gaming,GM-003
+136,SONOS-ERA-300 WiFi Spatial,1400,speakers,SP-001
+137,דייקין פרפרה 18000 BTU,6460,ac,AC-005
+138,Hisense 55U8N MiniLED,3260,tvs,TV-007
+139,לוג'יטק G Pro X Superlight 2,620,gaming,GM-005
+140,SAMSUNG-QN90D 55inch NeoQLED,9780,tvs,TV-004
+141,LG-DUALCOOL S12ET 12000BTU WiFi,4900,ac,AC-001
+142,MacBook Air 15 M3 512GB,9330,laptops,LP-004
+143,LG OLED65C4 2024,10420,tvs,TV-001
+144,AEG OKOMix 9KG L9FEC966R,5470,washing_machines,WM-006
+145,APPLE-IPHONE-15-PRO-MAX 256GB,5510,smartphones,SM-003
+146,סמסונג גלקסי בדס 3 פרו,630,headphones,HP-004
+147,קנון EOS R6 מארק 2 גוף,7930,cameras,CM-002
+148,iPad 10th Generation 64GB,1790,tablets,TB-007
+149,פוג'יפילם X-T5 גוף,6240,cameras,CM-003
+150,Sony ZVE10M2 Vlog Camera,3570,cameras,CM-004
+151,Apple iPhone 15 256GB,3460,smartphones,SM-012
+152,לנובו ThinkPad X1 Carbon 512GB,10160,laptops,LP-008
+153,ג'יי בי אל צ'ארג' 5,660,speakers,SP-002
+154,SAMSUNG-QN90D 75inch NeoQLED,12310,tvs,TV-003
+155,DJI Osmo Action 4,1960,cameras,CM-006
+156,Nespresso Vertuo Creatista Plus,3220,coffee,CF-002
+157,מקבוק אייר 15 M3 256GB,8180,laptops,LP-003
+158,LG-ULTRAGEAR-27GP950 4K IPS,3530,monitors,MN-001
+159,Samsung Tab S9Ultra 256GB WiFi,2970,tablets,TB-006
+160,Apple AirPods Pro 2nd Generation,1120,headphones,HP-002
+161,נספרסו ורטואו פופ פלוס,1400,coffee,CF-005
+162,Philips EP1220 3000 Series,890,coffee,CF-008
+163,AEG L9FEC966R ProSteam 9KG,5000,washing_machines,WM-006
+164,SONY WH1000XM4 Wireless,1020,headphones,HP-006
+165,APPLE IPHONE15 256GB,3500,smartphones,SM-012
+166,BOSCH-SERIE8 KGN86 559L NoFrost,7420,refrigerators,RF-003
+167,Beko RCNA406I 341L,3820,refrigerators,RF-006
+168,מקבוק פרו 14 M3 512GB,9130,laptops,LP-005
+169,סמסונג גלקסי A55 128GB,2420,smartphones,SM-013
+170,OnePlus12 256G,3220,smartphones,SM-008
+171,GOOGLE-PIXEL-8A 128GB,2140,smartphones,SM-015
+172,SONY-PLAYSTATION5-SLIM Disc,2230,gaming,GM-002
+173,טלוויזיה LG OLED 77 C4,12500,tvs,TV-002
+174,NESPRESSO-VERTUO-CREATISTA-PLUS,3170,coffee,CF-002
+175,iPad Pro 13 M4 512GB,5040,tablets,TB-002
+176,Bosch Serie 8 i-DOS 10KG WAX32EH,5160,washing_machines,WM-003
+177,NESPRESSO-VERTUO-POP-PLUS,1610,coffee,CF-005
+178,LG-DUALCOOL S18ET 18000BTU WiFi,6680,ac,AC-002
+179,Nespresso Vertuo Pop+,1630,coffee,CF-005
+180,דל XPS 15 9530 1TB,9470,laptops,LP-007
+181,SAMSUNG-TAB-S9-ULTRA 256GB,3290,tablets,TB-006
+182,Mitsubishi MSZ-HR25VF Inverter 9000BTU,4080,ac,AC-004
+183,Samsung WW11BB944DGH EcoBubble 11KG,3670,washing_machines,WM-001
+184,ASUS ROG Zephyrus G14 2024 512GB,7160,laptops,LP-009
+185,SONY WH1000XM5 Wireless,1210,headphones,HP-001
+186,SONY-A7IV Alpha 7IV Mirrorless,11020,cameras,CM-001
+187,Carrier Platinum 24000 BTU,7680,ac,AC-008
+188,Roborock S8 Pro Ultra,2810,vacuum,VC-006
+189,JBL-CHARGE-5 IP67 Bluetooth,690,speakers,SP-002
+190,לנובו IdeaPad Slim5 512GB,5550,laptops,LP-011
+191,Google Pixel 8a 128GB,2030,smartphones,SM-015
+192,Apple MacBook Air 15inch M3 512GB,8770,laptops,LP-004
+193,GOOGLE-PIXEL-8-PRO 128GB,3480,smartphones,SM-006
+194,Samsung Galaxy S24 Ultra 512GB,5600,smartphones,SM-002
+195,JBL Charge5 Bluetooth,620,speakers,SP-002
+196,LG 27GP950-B UltraGear 4K,3410,monitors,MN-001
+197,טלוויזיה LG OLED 65 C4,11160,tvs,TV-001
+198,JABRA EVOLVE2-85 UC MS,1430,headphones,HP-005
+199,Apple iPad Air 13-inch M2 128GB,2830,tablets,TB-003
+200,בוז קוויאט קומפורט אולטרה,1260,headphones,HP-008
+201,Electrolux NoFrost 524L,5440,refrigerators,RF-004
+202,נינטנדו סוויץ 2,910,gaming,GM-007
+203,אל ג'י אינסטה ויו 635 ליטר,8430,refrigerators,RF-002
+204,Apple iPad Air 13-inch M2 256GB,3350,tablets,TB-004
+205,Lenovo IdeaPad-Slim-5 16inch 512GB,5190,laptops,LP-011
+206,LG OLED C4 77 inch,11230,tvs,TV-002
+207,JURA-E8 Piano Black Bean2Cup,4530,coffee,CF-004
+208,בוש סרי 8 i-DOS 10 קג,4990,washing_machines,WM-003
+209,Samsung Galaxy A55 128GB,2580,smartphones,SM-013
+210,Daikin FTXM50R Perfera Inverter 18000BTU,6050,ac,AC-005
+211,סמסונג גלקסי S24 אולטרה 256GB,4730,smartphones,SM-001
+212,Anker Soundcore 3 Bluetooth,270,speakers,SP-006
+213,Electra Inverter 12000 BTU WiFi,4820,ac,AC-006
+214,Logitech GPro Superlight 2 DEX,590,gaming,GM-005
+215,Samsung 32G75T Odyssey G7 QHD,2540,monitors,MN-002
+216,Bose SoundLink-Max Portable,900,speakers,SP-003
+217,Dell XPS15 9530 1TB,10520,laptops,LP-007
+218,MacBook Pro 16 M3 Pro 1TB,13560,laptops,LP-002
+219,Hisense U8N 55 inch,3490,tvs,TV-007
+220,Haier French Door 520L,6730,refrigerators,RF-005
+221,Samsung EcoBubble 11KG WW11BB944,3870,washing_machines,WM-001
+222,LOGITECH-GPRO-X-SUPERLIGHT2,710,gaming,GM-005
+223,אייפון 15 256GB,3340,smartphones,SM-012
+224,SONOS-ARC-ULTRA Atmos Soundbar,2060,speakers,SP-004
+225,DYSON-V15-DETECT Absolute,3050,vacuum,VC-001
+226,Nintendo Switch OLED,1420,gaming,GM-004
+227,SAMSUNG-S24-ULTRA 512GB,4770,smartphones,SM-002
+228,Dell XPS 15 9530 1TB,11750,laptops,LP-007
+229,ASUS-ROG-G14 2024 RTX4060 512GB,8050,laptops,LP-009
+230,Daikin FTXM50 Perfera 18000 BTU,6410,ac,AC-005
+231,בוז קוויאט קומפורט 45,1100,headphones,HP-003
+232,Xiaomi Pad 6 128GB,1120,tablets,TB-010
+233,Sony ZV-E10 II Body,3150,cameras,CM-004
+234,ELECTRA-INV12000 A++ WiFi,4520,ac,AC-006
+235,Microsoft Xbox Series-S 512GB,650,gaming,GM-006
+236,APPLE-IPAD-PRO-13 M4 256GB WiFi,4680,tablets,TB-001
+237,אל ג'י דואלקול אינוורטר 18000 BTU,7130,ac,AC-002
+238,Apple MacBook Air 15inch M3 256GB,8300,laptops,LP-003
+239,Pixel 8 Pro 128G,3650,smartphones,SM-006
+240,Sony Alpha A7 IV Body,9410,cameras,CM-001
+241,Sonos Arc-Ultra Dolby Atmos,2300,speakers,SP-004
+242,Tadiran Alpha 10000 BTU,3400,ac,AC-007
+243,Dell XPS 15 9530 512GB,9180,laptops,LP-006
+244,BOSE-SOUNDLINK-MAX Bluetooth,1030,speakers,SP-003
+245,AirPods Pro 2,1030,headphones,HP-002
+246,LG-OLED-C4 77'' 4K 2024,10810,tvs,TV-002
+247,SAMSUNG-S95D 65inch OLED 4K,8540,tvs,TV-008
+248,SONY-PLAYSTATION5-SLIM Digital,1920,gaming,GM-001
+249,APPLE-IPAD-PRO-13 M4 512GB WiFi,4860,tablets,TB-002
+250,APPLE-IPAD-AIR-13 M2 128GB,2820,tablets,TB-003
+251,סוני ברביה OLED 55 A95L,10080,tvs,TV-005
+252,Apple iPad 10.9-inch 10th Gen 64GB,2120,tablets,TB-007
+253,LG F4WV912P2 TurboWash 360 12KG,4800,washing_machines,WM-002
+254,היסנס U8N 55 אינץ,3420,tvs,TV-007
+255,BOSE QC-45 Wireless ANC,1170,headphones,HP-003
+256,אייפד דור 10 64GB,2130,tablets,TB-007
+257,Marshall Emberton III Portable,1280,speakers,SP-007
+258,iRobot Roomba j9+,3530,vacuum,VC-003
+259,Microsoft Xbox Series-X 1TB,1760,gaming,GM-003
+260,Roborock S8ProUltra Robot,2730,vacuum,VC-006
+261,LG OLED77C4 2024,11060,tvs,TV-002
+262,DYSON-V12-DETECT-SLIM,2340,vacuum,VC-002
+263,Redmi Note 13Pro 256GB,1860,smartphones,SM-014
+264,בוש סרי 8 NoFrost 559 ליטר,6690,refrigerators,RF-003
+265,Nintendo Switch 2,800,gaming,GM-007
+266,סמסונג גלקסי S24 אולטרה 512GB,5800,smartphones,SM-002
+267,Bose QuietComfort Ultra,1500,headphones,HP-008
+268,HAIER-HTF520 French Door 520L,8280,refrigerators,RF-005
+269,Jura E8 Piano Black,5370,coffee,CF-004
+270,Samsung 75QN90D NeoQLED,12840,tvs,TV-003
+271,מיצובישי אלקטריק 9000 BTU MSZ-HR25,4150,ac,AC-004
+272,BOSE QUIETCOMFORT-ULTRA ANC,1380,headphones,HP-008
+273,גוגל פיקסל 8 פרו 128GB,3980,smartphones,SM-006
+274,Motorola Moto G84 256GB,1030,smartphones,SM-017
+275,Bose QuietComfort 45,1040,headphones,HP-003
+276,Xiaomi Redmi Note 13 Pro 256GB,1700,smartphones,SM-014
+277,iPad Air 13 M2 256GB,3080,tablets,TB-004
+278,סמסונג גלקסי S24 פלוס 256GB,4890,smartphones,SM-010
+279,HP-SPECTRE-X360-14 512GB,7370,laptops,LP-010
+280,HISENSE-U8N 65inch MiniLED 4K,4600,tvs,TV-006
+281,Samsung Neo QLED QN90D 55 inch,8460,tvs,TV-004
+282,אאג' OKOMix 9 קילו,5280,washing_machines,WM-006
+283,ברוויל בריסטה אקספרס BES876,4290,coffee,CF-003
+284,XIAOMI REDMI-NOTE-13-PRO 256GB,1850,smartphones,SM-014
+285,Galaxy Buds 3 Pro,650,headphones,HP-004
+286,Dell XPS15 9530 512GB,9860,laptops,LP-006
+287,Sony PS5 Slim Disc,2070,gaming,GM-002
+288,DELL-XPS-15-9530 512GB i7,8390,laptops,LP-006
+289,Samsung Neo QLED QN90D 75 inch,12030,tvs,TV-003
+290,SAMSUNG-TAB-S9-FE 128GB,1160,tablets,TB-005
+291,Sony ILCE-7M4 Alpha A7IV,10500,cameras,CM-001
+292,Lenovo Yoga 7i 2024 512GB,4240,laptops,LP-014
+293,BREVILLE-BES876 Barista-Express-Impress,4350,coffee,CF-003
+294,Pixel 8a 128G,2020,smartphones,SM-015
+295,סמסונג פמילי האב 4 דלתות 600 ליטר,10050,refrigerators,RF-001
+296,מקבוק פרו 16 M3 Pro 512GB,12990,laptops,LP-001
+297,Mitsubishi Electric MSZ-HR25 9000 BTU,3930,ac,AC-004
+298,Fujifilm XT5 40MP Body,5380,cameras,CM-003
+299,DELL-U3223QE 32inch 4K IPS,4920,monitors,MN-003
+300,Lenovo IdeaPad Slim 5 512GB,5740,laptops,LP-011
+301,MITSUBISHI-MSZ-HR25 9000BTU Inverter,3970,ac,AC-004
+302,APPLE IPHONE15PROMAX 512GB,5860,smartphones,SM-004
+303,Google Pixel 8 Pro 128GB,4080,smartphones,SM-006
+304,XIAOMI-14-PRO 512GB,3340,smartphones,SM-009
+305,אייפד פרו 13 M4 256GB,4720,tablets,TB-001
+306,Anker Soundcore Q45,450,headphones,HP-010
+307,Pixel 8Pro 256GB,3610,smartphones,SM-007
+308,GoPro Hero 13 Black,2380,cameras,CM-005
+309,Apple iPhone 15 Pro Max 256GB,4880,smartphones,SM-003
+310,Samsung Family Hub 4-Door 600L,9810,refrigerators,RF-001
+311,SONY-ZV-E10-II APS-C Vlog,3140,cameras,CM-004
+312,סמסונג גלקסי טאב S9 FE 128GB,1400,tablets,TB-005
+313,BENQ-EX2710Q MOBIUZ 165Hz,1800,monitors,MN-004
+314,אייפד דור 10 256GB,2260,tablets,TB-008
+315,Samsung AR18TXFCAWKN WindFree 18000BTU,6070,ac,AC-003
+316,DeLonghi ECAM290 Magnifica Evo,2100,coffee,CF-006
+317,DeLonghi ECAM370.95 Dinamica Plus,3860,coffee,CF-001
+318,דייסון V8 אבסולוט,1840,vacuum,VC-005
+319,מיקרוסופט סרפס לפטופ 5 256GB,6230,laptops,LP-012
+320,סוני WH-1000XM4,1140,headphones,HP-006
+321,Dell U3223QE UltraSharp 4K USB-C,4720,monitors,MN-003
+322,סמסונג גלקסי טאב S9 אולטרה 256GB,3650,tablets,TB-006
+323,Sony SRS-XB100 Portable Speaker,520,speakers,SP-005
+324,LENOVO-X1-CARBON-G11 512GB,9320,laptops,LP-008
+325,רובורוק S8 פרו אולטרה,3280,vacuum,VC-006
+326,APPLE MACBOOK-PRO-16 M3PRO 1TB,13690,laptops,LP-002
+327,Dyson V12 Slim Absolute,2190,vacuum,VC-002
+328,אייפון 15 128GB,3270,smartphones,SM-011
+329,יורה E8 פסנתר שחור,5340,coffee,CF-004
+330,PlayStation 5 Slim Digital Edition,1770,gaming,GM-001
+331,NINTENDO-SWITCH OLED White,1320,gaming,GM-004
+332,Hisense 65U8N MiniLED,5510,tvs,TV-006
+333,Apple iPhone 15 Pro Max 512GB,5380,smartphones,SM-004
+334,BOSCH-SERIE8 WAX32 10KG iDOS,5300,washing_machines,WM-003
+335,DeLonghi Dinamica Plus ECAM370,3210,coffee,CF-001
+336,APPLE-MACBOOK-PRO-16 M3PRO 512GB,12790,laptops,LP-001
+337,Black+Decker Dustbuster Advanced,920,vacuum,VC-008
+338,דל XPS 15 9530 512GB,8780,laptops,LP-006
+339,HISENSE-U8N 55inch MiniLED 4K,3130,tvs,TV-007
+340,אירפודס 4 ANC,840,headphones,HP-007
+341,Samsung Odyssey G7 32inch QHD,3090,monitors,MN-002
+342,אייפון 15 פרו מקס 512GB,6010,smartphones,SM-004
+343,סמסונג וינד פרי 18000 BTU,5280,ac,AC-003
+344,iRobot Roomba J9 Plus,3710,vacuum,VC-003
+345,LG S12ET Inverter WiFi 12000BTU,4750,ac,AC-001
+346,Bosch TKA8A683 FilterKaffee,570,coffee,CF-009
+347,Bosch KGN86AIDR Serie8 559L,6660,refrigerators,RF-003
+348,iPad Pro 13 M4 256GB,4300,tablets,TB-001
+349,Xbox Series S 512GB,640,gaming,GM-006
+350,Electrolux EW6F4943FB 9KG,3380,washing_machines,WM-005
+351,Miele WCR870WPS TwinDos 9KG,7260,washing_machines,WM-004
+352,Dyson V15 Detect Absolute,3220,vacuum,VC-001
+353,בן קיו מוביוז EX2710Q 27,1840,monitors,MN-004
+354,אירפודס פרו דור 2,980,headphones,HP-002
+355,LG OLED C4 65 inch,10550,tvs,TV-001
+356,SAMSUNG-S24-ULTRA 256GB,4670,smartphones,SM-001
+357,LG InstaView Door-in-Door 635L,8360,refrigerators,RF-002
+358,סמסונג Neo QLED 55 אינץ QN90D,8880,tvs,TV-004
+359,PS5 Slim דיסק,2330,gaming,GM-002
+360,אייפון 15 פרו מקס 256GB,5130,smartphones,SM-003
+361,SONY-SRS-XB100 IP67,530,speakers,SP-005
+362,MICROSOFT-XBOX-SERIES-X 1TB,2180,gaming,GM-003
+363,SONY BRAVIA-XR A95L 55'' OLED,9720,tvs,TV-005
+364,Dyson V15 Detect,3240,vacuum,VC-001
+365,LENOVO-IDEAPAD-SLIM5 512GB,5690,laptops,LP-011
+366,ONEPLUS-12 256GB 5G,3160,smartphones,SM-008
+367,Canon R6 MkII Mirrorless Body,7890,cameras,CM-002
+368,Rowenta Air Force 360,610,vacuum,VC-007
+369,MIELE-WCR870 9KG TwinDos,8100,washing_machines,WM-004
+370,Sony XM4 Over-Ear,1000,headphones,HP-006
+371,Samsung OLED S95D 65 inch,7770,tvs,TV-008
+372,Philips 50PUS8519 50 inch,2180,tvs,TV-009
+373,Xiaomi 14 Pro 512GB,3330,smartphones,SM-009
+374,MICROSOFT-SURFACE-LAPTOP-5 256GB,6990,laptops,LP-012
+375,BenQ EX2710Q MOBIUZ 165Hz QHD,1720,monitors,MN-004
+376,MacBook Pro 14 M3 512GB,8490,laptops,LP-005
+377,SAMSUNG-ODYSSEY-G7 32inch 240Hz,2580,monitors,MN-002
+378,Sony Bravia XR A95L OLED 55 inch,9110,tvs,TV-005
+379,אייפד פרו 13 M4 512GB,5440,tablets,TB-002
+380,APPLE MACBOOK-AIR-15 M3 512GB,8910,laptops,LP-004
+381,MacBook Air 15 M3 256GB,6980,laptops,LP-003
+382,Apple iPhone 15 128GB,3120,smartphones,SM-011
+383,מיאלה TwinDos 9 קילוגרם,7240,washing_machines,WM-004
+384,ג'אברה Evolve 2 85,1750,headphones,HP-005
+385,AirPods 4 Active Noise Cancellation,860,headphones,HP-007
+386,APPLE-IPAD-10GEN 64GB WiFi,1820,tablets,TB-007
+387,iPad Air 13 M2 128GB,2980,tablets,TB-003
+388,Sony WH-1000XM5,1310,headphones,HP-001
+389,Philips 27M1N3200VA 27inch,1320,monitors,MN-006
+390,SAMSUNG S24PLUS 256GB,4580,smartphones,SM-010
+391,IROBOT-ROOMBA-J9-PLUS Robot,3570,vacuum,VC-003
+392,iPad 10th Generation 256GB,2380,tablets,TB-008
+393,אייפד אייר 13 M2 128GB,2990,tablets,TB-003
+394,דלונגי דינמיקה פלוס ECAM370,3810,coffee,CF-001
+395,Bosch Serie 8 NoFrost 559L,7290,refrigerators,RF-003
+396,LG TurboWash 12KG F4WV912,4410,washing_machines,WM-002
+397,Samsung WindFree Inverter 18000 BTU,5710,ac,AC-003
+398,Apple iPad 10.9-inch 10th Gen 256GB,2430,tablets,TB-008
+399,Breville Barista Express Impress BES876,3840,coffee,CF-003
+400,אייפד אייר 13 M2 256GB,3100,tablets,TB-004
+401,LG Dualcool Inverter 12000 BTU,4880,ac,AC-001
+402,Samsung Galaxy Tab S9 Ultra 256GB,3600,tablets,TB-006
+403,Dyson V8 Absolute,1620,vacuum,VC-005
+404,SAMSUNG-FAMILYHUB 600L 4Door,11040,refrigerators,RF-001
+405,סוני ZV-E10 II גוף,3470,cameras,CM-004
+406,APPLE-MACBOOK-PRO-14 M3 512GB,8490,laptops,LP-005
+407,סמסונג בספוק ג'ט AI,2290,vacuum,VC-004
+408,אלקטרולוקס PerfectCare 9 קילו,3470,washing_machines,WM-005
+409,Dyson V12 Detect Slim,2110,vacuum,VC-002
+410,האייר פרנץ' דור 520 ליטר,7080,refrigerators,RF-005
+411,סוני אלפא A7 IV גוף בלבד,8800,cameras,CM-001
+412,Nintendo Switch 2 Console,770,gaming,GM-007
+413,Samsung Bespoke Jet AI,2500,vacuum,VC-004
+414,אל ג'י דואלקול אינוורטר 12000 BTU,4550,ac,AC-001
+415,Jabra Evolve2 85 UC,1490,headphones,HP-005
+416,Logitech G Pro X Superlight 2,590,gaming,GM-005
+417,Candy CS 1492DE 9KG,2710,washing_machines,WM-007
+418,Bosch WAX32EH0IL Serie8 10KG,4570,washing_machines,WM-003
+419,DELONGHI-MAGNIFICA-EVO ECAM290,2060,coffee,CF-006
+420,Sony SRSXB100 Bluetooth,440,speakers,SP-005
+421,Sonos Era 300,1610,speakers,SP-001
+422,מקבוק פרו 16 M3 Pro 1TB,13860,laptops,LP-002
+423,DYSON-V8-ABSOLUTE,1870,vacuum,VC-005
+424,MacBook Pro 16 M3 Pro 512GB,12160,laptops,LP-001
+425,APPLE IPAD-AIR-13 M2 256GB,3860,tablets,TB-004
+426,AEG-L9FEC966 9KG OEKOMix,5810,washing_machines,WM-006
+427,גוגל פיקסל 8 פרו 256GB,3840,smartphones,SM-007
+428,ROBOROCK-S8-PRO-ULTRA,2820,vacuum,VC-006
+429,SAMSUNG-ECOBUBBLE WW11 11KG,4190,washing_machines,WM-001
+430,Dell UltraSharp U3223QE 32inch 4K,5550,monitors,MN-003
+431,Sonos Era-300 Spatial Audio,1590,speakers,SP-001
+432,Lenovo ThinkPad X1 Carbon Gen 11 512GB,8610,laptops,LP-008

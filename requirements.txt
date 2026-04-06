@@ -1,0 +1,5 @@
+openai>=1.30.0
+faiss-cpu>=1.8.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+matplotlib>=3.8.0
