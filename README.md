@@ -182,7 +182,7 @@ Raw counts of True Positives (correct merges), False Positives (wrong merges), a
 | Constant | Default | Effect |
 |----------|---------|--------|
 | `SIMILARITY_THRESHOLD` | 0.72 | Cosine similarity cutoff for Union-Find. Lower = wider candidate net; LLM handles more false positives. |
-| `TOP_K` | 30 | FAISS neighbors checked per product. Raise for denser catalogs. |
+| `TOP_K` | 10 | FAISS neighbors checked per product. Raise for denser catalogs. |
 
 ---
 
