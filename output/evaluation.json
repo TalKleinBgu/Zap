@@ -1,22 +1,22 @@
 {
   "pair_precision": 1.0,
-  "pair_recall": 0.9175,
-  "pair_f1": 0.957,
-  "pair_tp": 556,
+  "pair_recall": 0.9142,
+  "pair_f1": 0.9552,
+  "pair_tp": 554,
   "pair_fp": 0,
-  "pair_fn": 50,
+  "pair_fn": 52,
   "cluster_purity": 1.0023,
   "cluster_coverage": 0.9537,
   "bcubed_precision": 1.0,
-  "bcubed_recall": 0.941,
-  "bcubed_f1": 0.9696,
-  "adjusted_rand_index": 0.9549,
+  "bcubed_recall": 0.9387,
+  "bcubed_f1": 0.9684,
+  "adjusted_rand_index": 0.9531,
   "price_accuracy": 0.9505,
-  "avg_price_overcharge": 0.0031,
+  "avg_price_overcharge": 0.0041,
   "false_positive_examples": [],
   "false_negative_examples": [
-    "\"GOOGLE-PIXEL-8-PRO 128GB\"  vs  \"Google Pixel 8 Pro 128GB\"",
-    "\"דייסון V15 דיטקט אבסולוט\"  vs  \"Dyson V15 Detect\"",
-    "\"Bose QuietComfort Ultra\"  vs  \"Bose QC Ultra Headphones\""
+    "\"יורה Z10 שחור יהלום\"  vs  \"Jura Z10 Aluminum Black 2024\"",
+    "\"Sony ZVE10M2 Vlog Camera\"  vs  \"סוני ZV-E10 II גוף\"",
+    "\"GOOGLE-PIXEL-8-PRO 128GB\"  vs  \"גוגל פיקסל 8 פרו 128GB\""
   ]
 }

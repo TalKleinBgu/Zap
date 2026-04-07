@@ -31,7 +31,10 @@ EMBEDDING_CACHE_PATH        = "cache/embeddings.json"
 NORMALIZATION_CACHE_PATH    = "cache/normalizations.json"
 EMBEDDING_MODEL             = "text-embedding-3-small"
 
-client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
+_api_key = os.environ.get("OPENAI_API_KEY")
+if not _api_key:
+    raise EnvironmentError("OPENAI_API_KEY environment variable is not set.")
+client = OpenAI(api_key=_api_key)
 
 
 # ── Hebrew → English normalization via LLM ────────────────────────────────────
@@ -246,7 +249,12 @@ Respond ONLY with valid JSON, no extra text:
         response_format={"type": "json_object"},
     )
 
-    data = json.loads(response.choices[0].message.content)
+    try:
+        data = json.loads(response.choices[0].message.content)
+    except (json.JSONDecodeError, KeyError):
+        # Fallback: treat the whole cluster as a single group using normalized names
+        return [{"canonical_name": cluster[0].get("_norm", cluster[0]["name"]), "products": cluster}]
+
     result = []
     seen_ids: set[str] = set()
     for group in data["groups"]:
@@ -695,7 +703,7 @@ def run_pipeline():
 
     products = load_csv(INPUT_CSV)
     categories = len(set(p["category"] for p in products))
-    has_gt = "group_id" in products[0]
+    has_gt = bool(products) and "group_id" in products[0]
     print(f"\nLoaded {len(products)} products across {categories} categories")
     if has_gt:
         print("Ground-truth labels found (group_id) — evaluation will run.\n")
@@ -708,11 +716,13 @@ def run_pipeline():
 
     # Stage 0 + 1 + 2 — normalize Hebrew names, embed, cluster per category
     print("── Stage 0+1+2: Hebrew normalization → Embeddings → FAISS clustering ──")
-    clusters = cluster_by_category(products)
-
-    # Save both caches after all API calls are done
-    save_normalization_cache()
-    save_embedding_cache()
+    try:
+        clusters = cluster_by_category(products)
+    finally:
+        # Save caches even if clustering crashes partway through —
+        # avoids losing API results already computed for earlier categories
+        save_normalization_cache()
+        save_embedding_cache()
     print(f"\n   {len(clusters)} clusters | {sum(1 for c in clusters if len(c) > 1)} candidate groups")
     print(f"   {len(_normalization_cache)} normalizations, {len(_embedding_cache)} embeddings in cache\n")
 
@@ -724,7 +734,7 @@ def run_pipeline():
     for cluster in clusters:
         if len(cluster) == 1:
             p = cluster[0]
-            output.append(build_record(p["name"], cluster))
+            output.append(build_record(p.get("_norm", p["name"]), cluster))
         else:
             refined = llm_refine(cluster)
             llm_calls += 1

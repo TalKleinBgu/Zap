@@ -19,7 +19,7 @@ Input CSV  (id, name, price, category [, group_id])
                        │ normalized names
                        ▼
 ┌─────────────────────────────────────────────────────┐
-│  Stage 1: Multilingual Embeddings + FAISS ANN        │
+│  Stage 1: Embeddings + FAISS ANN        │
 │  • text-embedding-3-small → 1536-dim vectors         │
 │  • Cached in cache/embeddings.json                   │
 │  • FAISS IndexFlatIP on L2-normalized vectors        │
@@ -36,7 +36,7 @@ Input CSV  (id, name, price, category [, group_id])
                        ▼
 ┌─────────────────────────────────────────────────────┐
 │  Stage 3: LLM Cluster Refinement                     │
-│  • Full cluster in one GPT-4o call (not per-pair)    │
+│  • Full cluster in one GPT-4o-mini call (not per-pair)    │
 │  • Verifies membership, splits false positives       │
 │  • Generates canonical English product name          │
 │  • Hard rule: 256GB ≠ 512GB, 55" ≠ 65", 9KG ≠ 11KG  │
@@ -46,7 +46,6 @@ Input CSV  (id, name, price, category [, group_id])
 ┌─────────────────────────────────────────────────────┐
 │  Stage 4: Merge & Min Price                          │
 │  • Picks lowest-priced listing per group             │
-│  → output/deduplicated_products.json                 │
 │  → output/deduplicated_products.csv                  │
 └──────────────────────┬──────────────────────────────┘
                        │ (only when group_id present)
@@ -154,14 +153,14 @@ Raw counts of True Positives (correct merges), False Positives (wrong merges), a
 
 | Metric | Score |
 |--------|-------|
-| Pair Precision | 0.972 |
-| Pair Recall | 0.927 |
-| **Pair F1** | **0.949** |
+| Pair Precision | 1.000 |
+| Pair Recall | 0.914 |
+| **Pair F1** | **0.955** |
 | Cluster Purity | 1.002 |
-| Cluster Coverage | 0.961 |
-| B-Cubed F1 | 0.971 |
-| Adjusted Rand Index | 0.960 |
-| Price Accuracy | 94.1% |
+| Cluster Coverage | 0.954 |
+| B-Cubed F1 | 0.968 |
+| Adjusted Rand Index | 0.953 |
+| Price Accuracy | 95.0% |
 | Avg Overcharge | 0.4% |
 
 ---
